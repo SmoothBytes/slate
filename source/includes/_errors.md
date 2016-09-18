@@ -18,3 +18,8 @@ Error Code | Meaning
 429 | Too Many Requests -- You're requesting too many kittens! Slow down!
 500 | Internal Server Error -- We had a problem with our server. Try again later.
 503 | Service Unavailable -- We're temporarially offline for maintanance. Please try again later.
+
+PRUEBA
+```iframe
+<iframe id="loginIframe" src="https://[CLIENT_NAME].socialandloyal.com/?external_id=[external_id]&token=[token]&locale=es_es" width="100%" scrolling="no" frameborder="0"></iframe>
+```
